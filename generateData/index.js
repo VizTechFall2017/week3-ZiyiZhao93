@@ -30,7 +30,9 @@ console.log(classRoom[1]);
 
 console.log( classRoom[1].age);*/
 
-/*myCircle = { 'cx': 100, 'cy': 200, 'r': 20, 'color': 'blue'};
+/*
+
+myCircle = { 'cx': 100, 'cy': 200, 'r': 20, 'color': 'blue'};
 
 //var myArray = [myCircle}; or
 
