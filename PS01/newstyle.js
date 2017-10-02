@@ -3,8 +3,8 @@ var svg = d3.select('svg');
 /* Your code goes here */
 myArray = [];
 
-for (i=0; i < 50; i++) {
-    var object = {cx: 1000 * Math.random(), cy: 100 * Math.random(), r: 5};
+for (i=0; i < 100; i++) {
+    var object = {cx: 1000 * Math.random(), cy: 800 * Math.random(), r: 5};
 
     myArray.push(object);
     svg.selectAll('circle')
